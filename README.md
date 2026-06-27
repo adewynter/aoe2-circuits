@@ -1,3 +1,6 @@
+> [!WARNING]
+> There seems to be some sort of cryptoscam using this project--this is not endorsed by me, or any of my affiliations.
+
 # A Perceptron in AoE II
 For the paper '[If LLMs Have Human-Like Attributes, Then so Does _Age of Empires II_](https://arxiv.org/abs/2605.31514)', by Adrian de Wynter. 
 
@@ -38,6 +41,11 @@ Ok, let's flippantly: in the paper I show that a lot of papers concluding human-
 Conversely, an argument trying to prove it by contradiction hits a wall when trying to elucidate if it was the experiment or the hypothesis which failed (because there's no independent way to verify it if the hypothesis includes the assumption).
 
 It then follows that _science_ does not work that way. An approximation (as opposed to a conclusive statement) would work better for sure, but then you cannot claim generality.
+
+
+**Q: But neurons don't know they are conscious, would that mean you aren't conscious?**
+
+A: I don't discuss consciousness, nor I reject (or accept!) the notion that it could arise in the substrate. This is a measurement paper--so neurons, MIT undergrads, goats--same difference: you need to measure it well.
 
 
 **Q: How is that related to _AoE II_? / LLMs run in a computer, isn't this the same thing?**
